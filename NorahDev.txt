@@ -1,1 +1,46 @@
-{"version_code":999999999,"content":" <p>رسالة دعـم للمطور للاستمرار في التحديثات </p <p>مرحباً صديقي</p> </p> ادعمناَ فضلاَ عن طريق اشتراكك في قناتنا على التلجرام<p> <p>•اشترك في القناة لكي تتوصل التحديثات اول بأول <p> </p>فضلاً اشـتـرك عبر الضغط على كلمة فتح حتى تختفي الرسالة</p> ","url":"https://t.me/WhatsApp3D" }
+{"version_code":999999999,"content":"
+<p>تحديث رقم V29.0</p>
+
+<li>تحديث النسخة على آخر إصدار في سوق بلاي برقم <b>2.19.360</b></li>
+<li>نسخة آمنة و <b>ضد الحظر</b></li>
+<li>إضافة جميع <b>خيارات الخصوصية</b> (اعدادات بلس - اعدادات الخصوصية)</li>
+<li>امكانية التحكم فيمن يمكنه <b>إضافتك إلى المجموعات</b> (الإعدادات-الحساب-الخصوصية-المجموعات)</li>
+<li>تفعيل خيار <b>الوضع الغامق</b> (الاعدادات - المظهر)</li>
+<li>امكانية <b>قفل واتساب من خلال البصمة</b> (الإعدادات-الحساب-الخصوصية-قفل باستخدام بصمة الإصبع)</li>
+<li>إضافة خيار <b>تحميل ونسخ الحالات</b> (ادخل على حالة جهة اتصالك-اضغط على ايقونة النقاط الثلاث ثم تحميل)</li>
+<li>إضافة أيقونة <b>قطع الانترنت عن التطبيق</b> في الشريط العلوي لشاشة المحادثات الرئيسية</li>
+<li>إضافة خيار لإخفاء ايقونة <b>قطع الانترنت</b> (اعدادات بلس - اعدادات الخصوصية - الخصوصية العامة)</li>
+<li>إضافة <b>اعدادات الوسائط</b> (اعدادات بلس - الوسائط)</li>
+<li>إضافة خيار <b>إشعار من اصبح متصل</b> (اعدادت بلس - المزيد من الاعدادات)</li>
+<li>إضافة خيار <b>إشعار تغيير الصورة الشخصية</b> (اعدادت بلس - المزيد من الاعدادات)</li>
+<li>إضافة خيار <b>إشعار عند مشاهدة حالتك</b> (اعدادت بلس - المزيد من الاعدادات)</li>
+<li>إضافة خيار <b>اخفاء الإشعارات</b> (اعدادت بلس - المزيد من الاعدادات)</li>
+<li>إضافة أيقونة <b>قطع الانترنت</b> عن البرنامج في الشريط العلوي لشاشة المحادثات الرئيسية</li>
+<li>إضافة خيار لإخفاء ايقونة <b>قطع الانترنت</b> (اعدادات بلس - اعدادات الخصوصية - الخصوصية العامة)</li>
+<li>إضافة ودعم خاصية <b>انتظار المكالمات</b></li>
+<li>اصلاح عدم ظهور سجل المكالمات عند اخفاء المحادثات</li>
+<li>اصلاح ظهور رسالة متابعة المطور على تويتر</li>
+<li>اصلاح مشاركة الموقع عبر الواتساب</li>
+<li>اصلاح مشاكل <b>استهلاك البطارية</b> في بعض الأجهزة</li>
+<li>إصلاحات أخرى</li>
+
+<p>Updates V9.65</p>
+
+<li>Base Updated to <b>2.19.360</b></li>
+<li><b>Anti Ban</b></li>
+<li>Added All <b>Privacy Settings</b> (NorahMods - Privacy Settings)</li>
+<li>Enabl Dark Mod (settings - Theme)</li>
+<li>Ability to control who can add you to groups (settings - account - privacy - groups)</li>
+<li>Add and support call waiting</li>
+<li>The ability to lock WhatsApp through fingerprint (settings - account - privacy - lock with fingerprint)</li>
+<li>Added New option to <b>download and Copy Statses</b> like GB</li>
+<li>Add Contact Pic change toast (NorahMods - More)</li>
+<li>Add Statuses toast (NorahMods - More)</li>
+<li>Add Media Settings (NorahMods - Media)</li>
+<li>Add Dnd Icon on Main Screen Tab</li>
+<li>Add option to hide Dnd Icon (NorahMods - Privacy Settings - General )</li>
+<li>Repair problems with battery consumption in some devices.</li>
+<li>Other fixes</li>
+
+","url":"https://Aboallith.blogspot.com/"
+}
